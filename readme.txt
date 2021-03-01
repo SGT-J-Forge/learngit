@@ -3,5 +3,6 @@ git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
-try using stash
-feature-vulcan
+add merge
+I am gonna test push and pull.
+
